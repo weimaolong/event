@@ -6,7 +6,6 @@
  * Description: 对select模型进行了简单封装
  ******************************************************************************
  */
-#include <unistd.h>
 #include "event_select.h"
 
 
