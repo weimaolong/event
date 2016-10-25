@@ -6,5 +6,5 @@ client:
 	g++ -g -o udp_client udp_client.cpp
 
 clean:
-	rm -rf udp_server
-	rm -rf udp_client
+	@rm -rf udp_server
+	@rm -rf udp_client
