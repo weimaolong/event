@@ -34,8 +34,8 @@ int main(int argc, char const *argv[])
 
     bind(fd, (sockaddr*)&addr, sizeof(addr));
 
-    // Event *ev = EventFactory::Create("epoll");
-    Event *ev = EventFactory::Create("select");
+    Event *ev = EventFactory::Create("epoll");
+    // Event *ev = EventFactory::Create("select");
 
     ev->Init(10);
 
