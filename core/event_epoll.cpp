@@ -3,7 +3,7 @@
  * Copyright (c) 2016 Tencent Inc. All rights reserved
  * Author: markwei@tencent.com
  * Date: 2016-09-11
- * Description: ¶ÔepollÄ£ĞÍ½øĞĞÁË¼òµ¥·â×°
+ * Description: å¯¹epollæ¨¡å‹è¿›è¡Œäº†ç®€å•å°è£…
  ******************************************************************************
  */
 #include <unistd.h>
